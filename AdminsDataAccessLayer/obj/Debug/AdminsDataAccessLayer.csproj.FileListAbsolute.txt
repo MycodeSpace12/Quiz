@@ -1,0 +1,6 @@
+C:\Users\youssef\Desktop\Quiz-Project-master\AdminsDataAccessLayer\bin\Debug\AdminsDataAccessLayer.dll
+C:\Users\youssef\Desktop\Quiz-Project-master\AdminsDataAccessLayer\bin\Debug\AdminsDataAccessLayer.pdb
+C:\Users\youssef\Desktop\Quiz-Project-master\AdminsDataAccessLayer\obj\Debug\AdminsDataAccessLayer.csproj.AssemblyReference.cache
+C:\Users\youssef\Desktop\Quiz-Project-master\AdminsDataAccessLayer\obj\Debug\AdminsDataAccessLayer.csproj.CoreCompileInputs.cache
+C:\Users\youssef\Desktop\Quiz-Project-master\AdminsDataAccessLayer\obj\Debug\AdminsDataAccessLayer.dll
+C:\Users\youssef\Desktop\Quiz-Project-master\AdminsDataAccessLayer\obj\Debug\AdminsDataAccessLayer.pdb

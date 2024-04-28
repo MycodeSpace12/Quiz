@@ -1,0 +1,9 @@
+C:\Users\youssef\Desktop\Quiz-Project-master\SubjectsBusinessLayer\bin\Debug\SubjectsBusinessLayer.dll
+C:\Users\youssef\Desktop\Quiz-Project-master\SubjectsBusinessLayer\bin\Debug\SubjectsBusinessLayer.pdb
+C:\Users\youssef\Desktop\Quiz-Project-master\SubjectsBusinessLayer\bin\Debug\SubjectsDataAccessLayer.dll
+C:\Users\youssef\Desktop\Quiz-Project-master\SubjectsBusinessLayer\bin\Debug\SubjectsDataAccessLayer.pdb
+C:\Users\youssef\Desktop\Quiz-Project-master\SubjectsBusinessLayer\obj\Debug\SubjectsBusinessLayer.csproj.AssemblyReference.cache
+C:\Users\youssef\Desktop\Quiz-Project-master\SubjectsBusinessLayer\obj\Debug\SubjectsBusinessLayer.csproj.CoreCompileInputs.cache
+C:\Users\youssef\Desktop\Quiz-Project-master\SubjectsBusinessLayer\obj\Debug\Subjects.5806A200.Up2Date
+C:\Users\youssef\Desktop\Quiz-Project-master\SubjectsBusinessLayer\obj\Debug\SubjectsBusinessLayer.dll
+C:\Users\youssef\Desktop\Quiz-Project-master\SubjectsBusinessLayer\obj\Debug\SubjectsBusinessLayer.pdb
